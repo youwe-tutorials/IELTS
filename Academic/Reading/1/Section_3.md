@@ -35,13 +35,19 @@ Which paragraph contains the following information?
 
 *Write the correct letter A-H in boxes 27-33 on your answer sheet.*
 
-27. _ _ _ _ The definition of phenology
-28. _ _ _ _ How Sparks first became aware of amateur records
-29. _ _ _ _ How people reacted to their involvement in data collection
-30. _ _ _ _ The necessity to encourage amateur data collection
-31. _ _ _ _ A description of using amateur records to make predictions
-32. _ _ _ _ Records of a competition providing clues to climate change
-33. _ _ _ _ A description of a very old record compiled by generations of amateur naturalists
+Q 27. _ _ _ _ The definition of phenology  
+
+Q 28. _ _ _ _ How Sparks first became aware of amateur records  
+
+Q 29. _ _ _ _ How people reacted to their involvement in data collection  
+
+Q 30. _ _ _ _ The necessity to encourage amateur data collection  
+
+Q 31. _ _ _ _ A description of using amateur records to make predictions  
+
+Q 32. _ _ _ _ Records of a competition providing clues to climate change  
+
+Q 33. _ _ _ _ A description of a very old record compiled by generations of amateur naturalists
 
 **Questions 34-36**
 
@@ -64,7 +70,7 @@ Choose the correct letter **A, B, C or D.**
 
 *Write your answers in boxes 37-40 on your answer sheet.*
 
-37. Why do a lot of scientists discredit the data collected by amateurs?
+Q 37. Why do a lot of scientists discredit the data collected by amateurs?
 
 A Scientific methods were not used in data collection.  
 
@@ -74,7 +80,7 @@ C Amateur data is not reliable.
 
 D Amateur data is produced by wrong candidates.  
 
-38. Mark Schwartz used the example of leaves to illustrate that
+Q 38. Mark Schwartz used the example of leaves to illustrate that
 
 A amateur records can’t be used.  
 
@@ -84,7 +90,7 @@ C the colour change of leaves is hard to observe.
 
 D valuable information is often precise.  
 
-39. How do the scientists suggest amateur data should be used?
+Q 39. How do the scientists suggest amateur data should be used?
 
 A Using improved methods  
 
@@ -94,7 +100,7 @@ C Using raw materials
 
 D Applying statistical techniques in data collection  
 
-40. What’s the implication of phenology for ordinary people?
+Q 40. What’s the implication of phenology for ordinary people?
 
 A It empowers the public.  
 
@@ -106,6 +112,6 @@ D It raises awareness about climate change in the public.
 
 ---
 
-| **[Home](1.md)** | **[Section 1](Section_1.md)** | **[Section 2](Section_1.md)** | **[Section 3](Section_3.md)** |
+| **[Home](1.md)** | **[Section 1](Section_1.md)** | **[Section 2](Section_2.md)** | **[Section 3](Section_3.md)** |
 
 ---
