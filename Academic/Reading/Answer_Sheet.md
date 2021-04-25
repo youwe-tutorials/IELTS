@@ -1,14 +1,9 @@
-# IELTS @ YouWe Tutorials
-
 ## Reading Answer Sheet
 
-- Name: ............................
-- Mock Test No.: ............................
-- Date: ...............
-- Starting Time: ............ (AM/PM)
+- Name: ............................  Mock Test No.: ............................
+- Date: ............... Starting Time: ............ (AM/PM)
 
 ---
-
 
 | Sr. No. | .......... Answer .......... | Sr. No. | .......... Answer .......... |
 |:--------|:-----------------------------|:--------|:-----------------------------|
@@ -41,6 +36,6 @@
 ---
 
 - Marks: ....... / 40
-- Examiner's Comments:
+- BAND & Examiner's Comments:
 
 ---
