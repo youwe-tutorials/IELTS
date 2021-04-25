@@ -99,6 +99,6 @@ D That Hot Year in Europe
 
 ---
 
-| **[Home](1.md)** | **[Section 1](Section_1.md)** | **[Section 2](Section_1.md)** | **[Section 3](Section_3.md)** |
+| **[Home](1.md)** | **[Section 1](Section_1.md)** | **[Section 2](Section_2.md)** | **[Section 3](Section_3.md)** |
 
 ---

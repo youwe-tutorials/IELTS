@@ -48,8 +48,9 @@ His research method was revolutionary in that he used experiments rather than pu
 
 Reading Passage 1 has seven paragraphs A-G.
 
-Choose the correct heading for each paragraph from the list of headings below.  
-Write the correct number i-x in boxes 1-7 on your answer sheet.
+Choose the correct heading for each paragraph from the list of headings below.    
+
+*Write the correct number i-x in boxes 1-7 on your answer sheet.*
 
 | i - x | List of headings                                    |
 |:------|:----------------------------------------------------|
@@ -80,7 +81,7 @@ Write the correct number i-x in boxes 1-7 on your answer sheet.
 
 Do the following statements agree with the information given in Reading Passage 1?
 
-In boxes 8-10 on your answer sheet, write
+*In boxes 8-10 on your answer sheet, write*
 
 - TRUE - 	if the statement agrees with the information
 - FALSE	- if the statement contradicts the information
@@ -96,7 +97,7 @@ In boxes 8-10 on your answer sheet, write
 
 Choose THREE letters A-F.
 
-Write your answers in boxes 11-13 on your answer sheet.
+*Write your answers in boxes 11-13 on your answer sheet.*
 
 Which THREE of the following are parts of Gilbert’s discovery?
 
@@ -109,6 +110,6 @@ Which THREE of the following are parts of Gilbert’s discovery?
 
 ---
 
-| **[Home](1.md)** | **[Section 1](Section_1.md)** | **[Section 2](Section_1.md)** | **[Section 3](Section_3.md)** |
+| **[Home](1.md)** | **[Section 1](Section_1.md)** | **[Section 2](Section_2.md)** | **[Section 3](Section_3.md)** |
 
 ---
