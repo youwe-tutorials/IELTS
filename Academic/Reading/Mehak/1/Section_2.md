@@ -40,12 +40,17 @@ Do the following statements agree with the information given in Reading Passage 
 | **NO**        | **if the statement contradicts the views of the writer**         |
 | **NOT GIVEN** | **if it is impossible to say what the writer thinks about this** |
 
-14. _ _ _ _ _ _ The average summer temperature in 2003 is almost 4 degrees higher than the average temperature of the past.
-15. _ _ _ _ _ _ Global warming is caused by human activities.
-16. _ _ _ _ _ _ Jones believes the temperature variation is within the normal range.
-17. _ _ _ _ _ _ The temperature is measured twice a day in major cities.
-18. _ _ _ _ _ _ There were milder winters rather than hotter summers.
-19. _ _ _ _ _ _ Governments are building new high-altitude ski resorts.
+Q 14. _ _ _ _ _ _ The average summer temperature in 2003 is almost 4 degrees higher than the average temperature of the past.  
+
+Q 15. _ _ _ _ _ _ Global warming is caused by human activities.  
+
+Q 16. _ _ _ _ _ _ Jones believes the temperature variation is within the normal range.  
+
+Q 17. _ _ _ _ _ _ The temperature is measured twice a day in major cities.  
+
+Q 18. _ _ _ _ _ _ There were milder winters rather than hotter summers.  
+
+Q 19. _ _ _ _ _ _ Governments are building new high-altitude ski resorts.
 
 ---
 
@@ -85,7 +90,7 @@ Choose the correct letter A, B, C or D.
 
 *Write your answer in box 26 on your answer sheet.*
 
-26. Which one of the following can be best used as the title of this passage?
+Q 26. Which one of the following can be best used as the title of this passage?
 
 A Global Warming  
 

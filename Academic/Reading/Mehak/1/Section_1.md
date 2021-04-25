@@ -66,13 +66,13 @@ Choose the correct heading for each paragraph from the list of headings below.
 | x     | His change of focus                                 |
 
 
-1. _ _ _ _ Paragraph A
-2. _ _ _ _ Paragraph B
-3. _ _ _ _ Paragraph C
-4. _ _ _ _ Paragraph D
-5. _ _ _ _ Paragraph E
-6. _ _ _ _ Paragraph F
-7. _ _ _ _ Paragraph G
+Q 1. _ _ _ _ Paragraph A  
+Q 2. _ _ _ _ Paragraph B  
+Q 3. _ _ _ _ Paragraph C    
+Q 4. _ _ _ _ Paragraph D  
+Q 5. _ _ _ _ Paragraph E   
+Q 6. _ _ _ _ Paragraph F   
+Q 7. _ _ _ _ Paragraph G
 
 ---
 
@@ -83,13 +83,15 @@ Do the following statements agree with the information given in Reading Passage 
 
 *In boxes 8-10 on your answer sheet, write*
 
-- TRUE - 	if the statement agrees with the information
-- FALSE	- if the statement contradicts the information
-- NOT GIVEN -	If there is no information on this
+- **TRUE** - 	if the statement agrees with the information
+- **FALSE**	- if the statement contradicts the information
+- **NOT GIVEN** -	If there is no information on this
 
-8. _ _ _ _ _ _ _ _ _ He is less famous than he should be.
-9. _ _ _ _ _ _ _ _ _ He was famous as a doctor before he was employed by the Queen.
-10. _ _ _ _ _ _ _ _ _ He lost faith in the medical theories of his time.
+Q 8. _ _ _ _ _ _ _ _ _ He is less famous than he should be.  
+
+Q 9. _ _ _ _ _ _ _ _ _ He was famous as a doctor before he was employed by the Queen.  
+
+Q 10. _ _ _ _ _ _ _ _ _ He lost faith in the medical theories of his time.
 
 ---
 
