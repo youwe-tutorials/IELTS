@@ -2,7 +2,7 @@
 ### Answer Sheet: ______________________ (Reading/Listening)
 
 - Name: ............................  Mock Test No.: ............................
-- Date: ............... Starting Time: ............ (AM/PM)
+- Date: ............................. Starting Time: ............ (AM/PM)
 
 ---
 
